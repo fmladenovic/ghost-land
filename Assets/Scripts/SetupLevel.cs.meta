@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 08d431dcef9f7a04fa6a9021200898b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wall: {fileID: 1667876761775772159, guid: 4b9b1d29e9780554ea3df2602e9253fe, type: 3}
+  - ground: {fileID: 7484437870407842286, guid: 7c841d9b2de091349ab57235b455f873,
+      type: 3}
+  - player: {fileID: 1398598952695414525, guid: 01a3452d7f4a70d40929cead13c5cf5b,
+      type: 3}
+  - food: {fileID: 639789509021234841, guid: c377883bd68a1324bb3cda33d65b009a, type: 3}
+  - background: {fileID: 839414353948039692, guid: 57fa63a9c4097cb40afea9e889f51f58,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

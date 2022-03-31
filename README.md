@@ -1,5 +1,5 @@
-<p align="center"><img width=60% src="https://user-images.githubusercontent.com/30222786/161154434-2e2a2423-c4f9-4502-af6b-f38976037a91.png"></p>
-<p align="center"><img width=100% src="https://user-images.githubusercontent.com/30222786/161156754-abe5ba66-909d-442b-bbf3-b18f2e6c9c36.png"></p>
+<p align="center"><img width=40% src="https://user-images.githubusercontent.com/30222786/161154434-2e2a2423-c4f9-4502-af6b-f38976037a91.png"></p>
+<p align="center"><img width=50% src="https://user-images.githubusercontent.com/30222786/161156754-abe5ba66-909d-442b-bbf3-b18f2e6c9c36.png"></p>
 <p align="center">🎮🕹 A video game developed during the Develop Games Process university course.</p>
 
 ## Requirements (for changings)

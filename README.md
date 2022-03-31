@@ -13,4 +13,4 @@ In folder *Build* you will find **GhostLand.exe** - run it.
 <p align="center"><img width=100% src="https://user-images.githubusercontent.com/30222786/161160051-b8cac587-7e1e-4487-839d-c09979f25cdc.gif"></p>
 
 ## About the Team
-[<img src="https://avatars1.githubusercontent.com/u/30222786?s=88&v=4" width="100px;"/>](https://github.com/FilipMeng)<br/> [<sub>Filip Mladenović</sub>](https://github.com/FilipMeng)
+[<img src="https://avatars1.githubusercontent.com/u/30222786?s=88&v=4" width="100px;"/>](https://github.com/FilipMeng)<br/> [<sub>Filip Mladenović</sub>](https://github.com/fmladenovic)

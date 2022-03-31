@@ -1,4 +1,4 @@
-# 🚀 PACMAN ( Upravljanje duhovima )
+# 🚀 Upravljanje duhovima
 
 Pakmen je igra u kojoj se agent (žuta loptica) kreće kroz lavirint sa ciljem da sakupi sve koglice (hranu) pre nego što ga duhovi (crvene kapsule) uhvate. 
 Cilj predmetnog projekta na ovom predmetu jeste da se implementira deo igre koji se odnosi na upravljanje duhovima, odnosno, napraviti da duhovi jure pakmena.
@@ -30,23 +30,23 @@ Kada je hrana pojedena od strane Pakmena ona se sakriva, ali i dalje postoji na 
 	    }
 
 
-	    void updateValues( GameObject pacman  )
+	    void updateValues( GameObject agent  )
 	    {
 	        GameObject[] food = GameObject.FindGameObjectsWithTag("Food");
 	        foreach (GameObject f in food)
 	        {
 	            Food script = f.GetComponent<Food>();
-	            script.value = Manhattan_distance(pacman, f);
+	            script.value = Manhattan_distance(agent, f);
 	        }
 	    }
 
-	    float Manhattan_distance(GameObject pacman, GameObject food )
+	    float Manhattan_distance(GameObject agent, GameObject food )
 	    {
-	        float pacman_x = pacman.transform.position.x;
-	        float pacman_z = pacman.transform.position.z;
+	        float agent_x = agent.transform.position.x;
+	        float agent_z = agent.transform.position.z;
 	        float food_x = food.transform.position.x;
 	        float food_z = food.transform.position.z;
-	        return Mathf.Abs(pacman_x - food_x) + Mathf.Abs(pacman_z - food_z);
+	        return Mathf.Abs(agent_x - food_x) + Mathf.Abs(agent_z - food_z);
 	    }
 	}
 

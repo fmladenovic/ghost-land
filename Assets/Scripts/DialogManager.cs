@@ -106,12 +106,12 @@ public class DialogManager : MonoBehaviour
     }
 
     public static void NextLevel() {
-        message = "Go to next dimension";
+        message = "Go to next level";
         exitButton = "exit";
         continueButton = "continue";
     }
     public static void Win() {
-        message = "You have surrvived";
+        message = "You have succeeded!";
         exitButton = "exit";
         continueButton = "reset";
     }

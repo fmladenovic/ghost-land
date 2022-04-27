@@ -11,6 +11,7 @@ In folder *Build* you will find **GhostLand.exe** - run it.
 
 ## Game overview
 <p align="center"><img width=100% src="https://user-images.githubusercontent.com/30222786/161160051-b8cac587-7e1e-4487-839d-c09979f25cdc.gif"></p>
+<a href="https://www.youtube.com/watch?v=ecMFI7eK5w4"> Official trailer </a>
 
 ## About the Team
 [<img src="https://avatars1.githubusercontent.com/u/30222786?s=88&v=4" width="100px;"/>](https://github.com/fmladenovic)<br/> [<sub>Filip Mladenović</sub>](https://github.com/fmladenovic)
